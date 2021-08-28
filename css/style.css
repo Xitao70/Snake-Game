@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(12, 131, 65);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("../img/cobrinha.jpg");
+    background-attachment: fixed;
+    background-size: 30%;
+    
+}
